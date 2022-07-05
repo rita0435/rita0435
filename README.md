@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=6495ED&height=200&section=header&text=About%20me&fontSize=90&fontColor=FFFFFF&fontAlign=10)
+![header](https://capsule-render.vercel.app/api?type=waving&color=6495ED&height=200&section=header&text=About%20me&fontSize=90&fontColor=FFFFFF&fontAlign=30)
 ### Hi!
 
 I'm a 3rd year **Engineering Physics Student** in FCUP/FEUP.
