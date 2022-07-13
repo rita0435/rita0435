@@ -16,6 +16,6 @@ I'm currently doing an Internship in **Development of a Magnetocaloric Refrigera
 - C++
 - Html
 ___
-[Resource for profile README.md](https://github.com/abhisheknaiidu/awesome-github-profile-readme/blob/master/README.md)
+[Resource for profile README.md](https://github.com/kyechan99/capsule-render)
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=6495ED&height=100&section=footer&fontSize=90&fontColor=FFFFFF)
