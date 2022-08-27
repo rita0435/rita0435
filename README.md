@@ -11,6 +11,7 @@ I'm currently doing an Internship in **Development of a Magnetocaloric Refrigera
 - Python
 - Micropython
 - Markdown
+- Notion.js
 
 ## Wanting to learn:
 - C++
