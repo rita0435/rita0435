@@ -12,12 +12,16 @@ I've done an Internship in **Development of a Magnetocaloric Refrigerator based 
 - Micropython
 - Markdown
 - Notion
+- Octave
+- AutoCAD
+- Labview
 
 ## Starting to learn
-- C++
+- Arduino
 
 ## Wanting to learn:
 - Html
+- C++
 ___
 [Resource for profile README.md](https://github.com/kyechan99/capsule-render)
 
