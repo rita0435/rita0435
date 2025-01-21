@@ -3,9 +3,10 @@
 
 I'm a 1st year **PhD Student in Engineering Physics** at FEUP.
 
-My Master Thesis focused on the development of textile electrodes for electroencephalogram monitorization. Work developed at CeNTI - Centre for Nanotechnology and Advanced Materials with the collaboration of IFIMUP.
+My Master Thesis was focused on the Development of Textile Electrodes for Electroencephalogram Monitorization. Work developed at CeNTI - Centre for Nanotechnology and Advanced Materials with the collaboration of IFIMUP.
 
 I've done an Internship in **Development of a Magnetocaloric Refrigerator based on High-Efficiency Thermal Switches** and another one in **Energy Harvesting from Low Temperature Gradients using the Thermomagnetic Effect and Triboelectric Materials**, both in IFIMUP.
+
 
 ![header](https://capsule-render.vercel.app/api?type=soft&color=aac5f5&height=70&section=header&animation=twinkling&text=Languages&fontSize=30&fontAlign=10&fontColor=FFFFFF)
 
