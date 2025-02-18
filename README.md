@@ -23,6 +23,7 @@ I've done an Internship in **Development of a Magnetocaloric Refrigerator based 
 
 ## Starting to learn
 - Arduino
+- C
 
 ## Wanting to learn:
 - Html
